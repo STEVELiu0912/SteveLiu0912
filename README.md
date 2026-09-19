@@ -39,6 +39,7 @@
   - Led tests of controls, walk-through tests, and substantive tests of details across key cycles: **Procurement**, **Sales**, and **R&D Projects**.
   - Communicated external audit confirmations (*函证*) with suppliers and performed inventory counts across production workshops.
   - Conducted structured online interviews with clients, compiled executive meeting minutes, and tracked issue logs.
+- **[Electronic Wet Chemicals Industry Report (PDF)](./Wet-Chemicals-Industry-Research-Report.pdf)**: Comprehensive mapping of 5 key chemicals (H₂O₂, HF, H₂SO₄, KOH, IPA) under SEMI G1–G5 standards, tracking market sizing, advanced-node demand (≤7nm/12-inch wafers), and competitive dynamics across 40+ leading manufacturers.
 
 #### 2. Beijing Hengde Times Private Equity Management Co., Ltd.
 *Securities & Quantitative Research Intern | 2025.07 – 2025.09*
@@ -90,6 +91,7 @@
   - 负责供应商采购函证的发函与跟进核对，独立开展线上客户访谈并梳理形成规范的会议纪要。
 - **内部控制与细节测试**：
   - 严格执行全流程穿行测试（Walk-through Tests）与控制/细节测试（Tests of Controls / Details），覆盖**采购循环、销售循环、研发项目投入**三大核心内控流程。
+- **[《湿化学品行业深度研究报告》(PDF)](./Wet-Chemicals-Industry-Research-Report.pdf)**：系统拆解双氧水、氢氟酸、硫酸、KOH 与 IPA 5 大核心品种在半导体先进制程（≤7nm/12吋晶圆）与光伏电池中的需求弹性，严格依据 SEMI G1-G5 等级标准，横向比对 40+ 家重点厂商的产能布局与供应链验证进展。
 
 #### 2. 北京恒德时代私募基金管理有限公司
 *证券与量化研究实习生 | 2025.07 – 2025.09*
