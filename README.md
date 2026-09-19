@@ -1,6 +1,6 @@
 # Hi there, I'm Zhiyao Liu (刘致尧) 👋
 
-> 📊 **B.S. in Statistics** | Data Analytics, Empirical Econometrics & Investment Banking / Financial Research  
+> 📊 **B.S. in Statistics（Data Science）** | Data Analytics, Empirical Econometrics & Investment Banking / Financial Research  
 > 📍 Beijing, China | ✉️ 2382250862@qq.com
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
@@ -13,7 +13,7 @@
 ## 🚀 About Me (English)
 
 - 🎓 **Education**: B.S. in Statistics at **Capital University of Economics and Business** (Joint Program with **University of Arizona**, 4+0, English immersion).
-  - *Academic Honors*: GPA 88/100 (Top 15%), 2025 Scientific Research Innovation Scholarship.
+  - *Academic Honors*: GPA 89/100 (Top 15%), 2025 Scientific Research Innovation Scholarship.
   - *Core Courses*: Time Series Analysis, Machine Learning, Linear Regression, Database Systems.
 - 💼 **Professional Experience**:
   - **China Merchants Bank (IPO Digital & Smart Tech Division 1)**: On-site investment banking internship for IPO due diligence and 1st-round regulatory inquiry reply.
@@ -66,7 +66,7 @@
 ## 📌 个人简介（中文）
 
 - 🎓 **教育背景**：首都经济贸易大学与美国亚利桑那大学中外合作办学（4+0 全英文培养）· **统计学本科**
-  - *学业表现*：加权成绩 88/100（专业前 15%）、2025 年科研创新奖学金
+  - *学业表现*：加权成绩 89/100（专业前 15%）、2025 年科研创新奖学金
   - *核心主修*：时间序列分析、机器学习、线性回归、数据库系统原理
 - 💼 **专业经历**：
   - **招商银行**：IPO 数智科技一部（现场协助一轮问询回复及底稿整理）
