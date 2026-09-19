@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me (English)
+## 🚀 About Me 
 
 - 🎓 **Education**: B.S. in Statistics at **Capital University of Economics and Business** (Joint Program with **University of Arizona**, 4+0, English immersion).
   - *Academic Honors*: GPA 89/100 (Top 15%), 2025 Scientific Research Innovation Scholarship.
@@ -63,7 +63,7 @@
 ---
 <br/>
 
-## 📌 个人简介（中文）
+## 📌 个人简介
 
 - 🎓 **教育背景**：首都经济贸易大学与美国亚利桑那大学中外合作办学（4+0 全英文培养）· **统计学本科**
   - *学业表现*：加权成绩 89/100（专业前 15%）、2025 年科研创新奖学金
